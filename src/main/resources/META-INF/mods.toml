@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+[[mods]]
+modId="mcst"
+version="${file.jarVersion}"
+displayName="MoreCobblestoneTools"
+logoFile=""
+credits="Thank you to download MoreCobblestoneTools."
+authors="Love, Nova Committee"
+description='''
+Thank you to download MoreCobblestoneTools.
+'''
+
+[[dependencies.mcst]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.mcst]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
