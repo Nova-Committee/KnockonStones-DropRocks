@@ -1,0 +1,19 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {
+      "chance": 0.15,
+      "mesh": "string"
+    },
+    {
+      "chance": 0.2,
+      "mesh": "flint"
+    }
+  ],
+  "input": {
+    "item": "minecraft:dirt"
+  },
+  "result": {
+    "item": "pamhc2trees:maplesyrupitem"
+  }
+}

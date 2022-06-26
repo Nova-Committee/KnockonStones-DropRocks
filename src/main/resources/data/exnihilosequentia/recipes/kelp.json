@@ -1,0 +1,13 @@
+{
+	"type": "exnihilosequentia:crook",
+	"results":[
+		{
+			"chance": 0.05,
+			"item": "minecraft:kelp",
+			"count": 1
+		}
+	],
+	"input": {
+		"item": "minecraft:sand"
+	}
+}

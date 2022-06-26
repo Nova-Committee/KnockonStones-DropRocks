@@ -1,0 +1,14 @@
+{
+  "result": {
+    "item": "cavesandcliffs:rooted_dirt"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "botania:living_root"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

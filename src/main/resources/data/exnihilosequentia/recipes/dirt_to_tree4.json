@@ -1,0 +1,13 @@
+{
+	"type": "exnihilosequentia:crook",
+	"results":[
+		{
+			"chance": 0.05,
+			"item": "minecraft:acacia_sapling",
+			"count": 1
+		}
+	],
+	"input": {
+		"item": "cavesandcliffs:rooted_dirt"
+	}
+}

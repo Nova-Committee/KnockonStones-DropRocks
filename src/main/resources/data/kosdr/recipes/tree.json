@@ -1,0 +1,14 @@
+{
+  "result": {
+    "item": "botania:living_root"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:dirt"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}
