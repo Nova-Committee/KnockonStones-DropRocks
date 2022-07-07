@@ -23,7 +23,7 @@ public class CraftingContainer extends WorkbenchContainer {
     protected static boolean isWithinUsableDistance(IWorldPosCallable callable, PlayerEntity player, Block workbenchBlock){
         return callable.evaluate(
                 (world, pos) ->
-                        (world.getBlockState(pos).getBlock() == workbenchBlock) && (player.distanceToSqr(pos.getX() + 0.5D, pos.getY() + 0.5D, pos.getZ() + 0.5D) <=6)
+                        (world.getBlockState(pos).getBlock() == workbenchBlock) && (player.distanceToSqr(pos.getX() + 0.5D, pos.getY() + 0.5D, pos.getZ() + 0.5D) <=48)
         ).get();
     }
 
